@@ -1,0 +1,20 @@
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <artifactId>consumer</artifactId>
+        <groupId>com.jeasion</groupId>
+        <version>${com.jeasion.version}</version>
+    </parent>
+
+    <artifactId>consumer-biz</artifactId>
+    <version>${com.jeasion.version}</version>
+    <packaging>jar</packaging>
+    <description>consumer-biz</description>
+
+    <dependencies>
+
+    </dependencies>
+
+</project>
