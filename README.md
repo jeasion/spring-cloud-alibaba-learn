@@ -1,5 +1,5 @@
 # 工程简介
-Spring Cloud Alibaba 项目的学习
+Spring Cloud Alibaba 项目的学习，另外也想作为一个标准的项目脚手架。
 
 ## 版本控制
 1. Spring Cloud, Spring Cloud Alibaba, Spring Boot各版本较为混乱。如果版本错误，会导致整合出现各种问题，特别是Nacos常常出现各种问题。所以需要[版本控制](https://github.com/alibaba/spring-cloud-alibaba/wiki/版本说明)。
